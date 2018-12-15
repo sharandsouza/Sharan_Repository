@@ -11,9 +11,6 @@ import javax.print.DocFlavor.STRING;
 public class list {
 	
 	
-	
-	
-
 	public static void main(String[] args) {
 		
 		List<String> namelist= new ArrayList<String>();
